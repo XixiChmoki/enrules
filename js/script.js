@@ -1,0 +1,1 @@
+$(function(){var n=new Date;$(".date").html(n.getFullYear());var e=window.performance.timing.domContentLoadedEventEnd-window.performance.timing.navigationStart;console.log("Page load time is "+e)});
