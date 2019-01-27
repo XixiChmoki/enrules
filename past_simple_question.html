@@ -82,12 +82,12 @@
 	</script>
      <link rel="stylesheet" href="css/styles.css"/>  
     </head>
-    <body>
-
+<body>
 <header>
     <div class="wrapper">
     	<a href="/past_simple/"><div class='arrow'>&lArr;</div></a>
-		<h1>29. Past Simple - Question</h1>
+        <a href="/"><div class='bigHome' id="bigHome">&#127968;</div></a>
+		<h1 id="h1Name">29. Past Simple - Question</h1>
     </div>
     <div class="gra"></div>
 </header>
@@ -142,7 +142,13 @@
 </div>
 
 <div class='buttonResult'>
-	<input class="show__next" id='restartTest' type='button' name='NewTest' value='Restart'>
+	<a href="/past_simple/">
+		<input class="result__next" id='testList' type='button' name='Test List' value='<Test List'>
+	</a>
+	<input class="result__next" id='restartTest' type='button' name='NewTest' value='Restart'>
+	<a href="/past_simple_special_question.html">
+		<input class="result__next" id='nextTest' type='button' name='Next Test' value='Next Test>'>
+	</a>
 </div>
 
 <script src="js/jquery.js"></script>

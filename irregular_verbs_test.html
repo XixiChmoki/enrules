@@ -82,12 +82,12 @@
 	</script>
      <link rel="stylesheet" href="css/styles.css"/>  
     </head>
-    <body>
-
+<body>
 <header>
     <div class="wrapper">
     	<a href="/irregular_verbs/"><div class='arrow'>&lArr;</div></a>
-		<h1>Test</h1>
+        <a href="/"><div class='bigHome' id="bigHome">&#127968;</div></a>
+		<h1 id="h1Name">Test</h1>
     </div>
     <div class="gra"></div>
 </header>
@@ -141,8 +141,11 @@
 	<input class="show__next" id='testResult' type='button' name='check' value='Result'>
 </div>
 
-<div class='buttonResult'>
-	<input class="show__next" id='restartTest' type='button' name='NewTest' value='Restart'>
+<div class='irrButton'>
+	<input class="result__next" id='restartTest' type='button' name='NewTest' value='Restart'>
+	<a href="/irregular_verbs/">
+		<input class="result__next" id='testList' type='button' name='Test List' value='Test List'>
+	</a>
 </div>
 
 <script src="js/jquery.js"></script>
