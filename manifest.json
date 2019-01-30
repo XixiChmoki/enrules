@@ -1,14 +1,6 @@
 {
-    "short_name": "English",
     "name": "English Grammar",
-    "start_url": "/",
-
-    "theme_color": "#fff",
-    "background_color": "#fff",
-
-    "display": "standalone",
-    "orientation": "portrait",
-
+    "short_name": "English",
     "icons": [
   {
    "src": "\/img/icons/android-icon-36x36.png",
@@ -51,5 +43,14 @@
    "sizes": "512x512",
    "type": "image\/png"
   }
- ]
+ ],
+    "start_url": "/",
+    "scope": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color": "#293662",
+    "description": "English Rules, Grammar, Exercises with explanations, Examples and Tests.",
+    "dir": "ltr",
+    "lang": "en-US"
 }

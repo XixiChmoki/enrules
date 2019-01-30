@@ -24,7 +24,7 @@
     <base href='/' />
   
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name='theme-color' content='#fff'/>
+    <meta name='theme-color' content='#293662'/>
         <meta name="mobile-web-app-capable" content="yes">
       <meta name="apple-mobile-web-app-capable" content="yes">
       <meta name="msapplication-starturl" content="/">
@@ -103,9 +103,9 @@ location.replace(url);
         <br><br> 
         You are leaving the <b>enrules.com</b> and following the external link <script type="text/javascript">document.write('<b>'+ url +'</b>')</script>.
         <br><br><br> 
-        If you didn't change your mind, press <script type="text/javascript">document.write('<a href="javascript://" onclick="go()">'+ url +'</a>')</script>.
+        If you want to continue, press <script type="text/javascript">document.write('<a href="javascript://" onclick="go()">'+ url +'</a>')</script>.
         <br><br><br> 
-        If you dont want, <b>press <a href="javascript:window.close()">cancel</a></b>.
+        If you don't want, <b>press <a href="javascript:window.close()">cancel</a></b>.
     </div>   
   </div>     
 </section>
@@ -160,6 +160,15 @@ if ('serviceWorker' in navigator) {
     });
   });
 }
+</script> -->
+<!-- <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker
+      .register('/sw.js')
+      .then(function(){
+        console.log('Service worker registered');
+      });
+  } 
 </script> -->
 
 

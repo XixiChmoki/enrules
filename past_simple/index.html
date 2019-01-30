@@ -25,30 +25,34 @@
 
 		<base href='/' />
 	
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name='theme-color' content='#fff'/>
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
         <meta name="mobile-web-app-capable" content="yes">
-  		<meta name="apple-mobile-web-app-capable" content="yes">
   		<meta name="msapplication-starturl" content="/">
-  		
+  		<meta name="apple-mobile-web-app-capable" content="yes">
+  		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+  		<meta name="apple-mobile-web-app-title" content="English">
 
 		<!--<link type="application/atom+xml" rel="alternate" href="https://enrules.com/feed.xml" title="English Rules, Grammar, Exercises with explanations, Examples and Tests." />-->
 		<link rel="alternate" type="application/rss+xml" title="Bakery Store RSS" href="/feed.xml" />
 		
-		<link rel="apple-touch-icon" type="image/png" sizes="57x57" href="icons/apple-icon-57x57.png">
-		<link rel="apple-touch-icon" type="image/png" sizes="60x60" href="img/icons/apple-icon-60x60.png">
-		<link rel="apple-touch-icon" type="image/png" sizes="72x72" href="img/icons/apple-icon-72x72.png">
-		<link rel="apple-touch-icon" type="image/png" sizes="76x76" href="img/icons/apple-icon-76x76.png">
-		<link rel="apple-touch-icon" type="image/png" sizes="114x114" href="img/icons/apple-icon-114x114.png">
-		<link rel="apple-touch-icon" type="image/png" sizes="120x120" href="img/icons/apple-icon-120x120.png">
-		<link rel="apple-touch-icon" type="image/png" sizes="144x144" href="img/icons/apple-icon-144x144.png">
-		<link rel="apple-touch-icon" type="image/png" sizes="152x152" href="img/icons/apple-icon-152x152.png">
-		<link rel="apple-touch-icon" type="image/png" sizes="180x180" href="img/icons/apple-icon-180x180.png">
+		<link rel="manifest" href="/manifest.json">
+		<link rel="apple-touch-icon" sizes="57x57" href="img/icons/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="img/icons/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="img/icons/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="img/icons/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="img/icons/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="img/icons/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="img/icons/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="img/icons/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="img/icons/apple-icon-180x180.png">
+		<meta name="msaplication-TileImage" content="img/icons/ms-icon-144x144.png">
 		<link rel="icon" type="image/png" sizes="192x192"  href="img/icons/android-icon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="img/icons/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="img/icons/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="img/icons/favicon-16x16.png">
-  		<link rel="manifest" href="/manifest.json">
+		<meta name="msaplication-TileColor" content="#fff">
+		<meta name='theme-color' content='#293662'/>
+
 		
 		<link rel="canonical" href="https://enrules.com/" />
 		<link rel="publisher" href="https://plus.google.com/u/0/"/>
@@ -228,6 +232,15 @@ if ('serviceWorker' in navigator) {
     });
   });
 }
+</script> -->
+<!-- <script>
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker
+      .register('/sw.js')
+      .then(function(){
+        console.log('Service worker registered');
+      });
+  } 
 </script> -->
 
 
