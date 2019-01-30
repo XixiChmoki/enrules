@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://enrules.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://enrules.com/" rel="alternate" type="text/html" /><updated>2019-01-30T09:32:10+03:00</updated><id>https://enrules.com/</id><title type="html">English Rules, Grammar, Exercises with explanations, Examples and Tests.</title><subtitle>If you want to improve your English grammar greatly, this site is for you. Doing these tests with explanations, you can improve your grammar from Beginner to Advanced - free.</subtitle><author><name>Aleksandr Bebris</name></author><entry><title type="html">English Tenses And Passive Voice Big Test</title><link href="https://enrules.com/english_tenses_and_passive_voice_big_test.html" rel="alternate" type="text/html" title="English Tenses And Passive Voice Big Test" /><published>2018-02-23T00:00:00+03:00</published><updated>2018-02-23T00:00:00+03:00</updated><id>https://enrules.com/english_tenses_and_passive_voice_big_test</id><content type="html" xml:base="https://enrules.com/english_tenses_and_passive_voice_big_test.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/20&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonBigResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/EnglishTensesAndPassiveVoiceBigTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainBigTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/20 &amp;#60;Back '&gt;</summary></entry><entry><title type="html">Past Perfect Continuous</title><link href="https://enrules.com/past_perfect_continuous.html" rel="alternate" type="text/html" title="Past Perfect Continuous" /><published>2018-02-22T00:00:00+03:00</published><updated>2018-02-22T00:00:00+03:00</updated><id>https://enrules.com/past_perfect_continuous</id><content type="html" xml:base="https://enrules.com/past_perfect_continuous.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/10&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice_big_test.html&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='nextTest' type='button' name='Next Test' value='Next Test&gt;'&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/362_PastPerfectContinuous.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/10 &amp;#60;Back '&gt; '&gt;</summary></entry><entry><title type="html">Past Perfect Question</title><link href="https://enrules.com/past_perfect_question.html" rel="alternate" type="text/html" title="Past Perfect Question" /><published>2018-02-21T00:00:00+03:00</published><updated>2018-02-21T00:00:00+03:00</updated><id>https://enrules.com/past_perfect_question</id><content type="html" xml:base="https://enrules.com/past_perfect_question.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/10&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+	&lt;a href=&quot;/past_perfect_continuous.html&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='nextTest' type='button' name='Next Test' value='Next Test&gt;'&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/361_PastPerfectQuestion.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/10 &amp;#60;Back '&gt; '&gt;</summary></entry><entry><title type="html">Past Perfect Negative</title><link href="https://enrules.com/past_perfect_negative.html" rel="alternate" type="text/html" title="Past Perfect Negative" /><published>2018-02-20T00:00:00+03:00</published><updated>2018-02-20T00:00:00+03:00</updated><id>https://enrules.com/past_perfect_negative</id><content type="html" xml:base="https://enrules.com/past_perfect_negative.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/10&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+	&lt;a href=&quot;/past_perfect_question.html&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='nextTest' type='button' name='Next Test' value='Next Test&gt;'&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/360_PastPerfectNegative.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/10 &amp;#60;Back '&gt; '&gt;</summary></entry><entry><title type="html">Past Perfect</title><link href="https://enrules.com/past_perfect.html" rel="alternate" type="text/html" title="Past Perfect" /><published>2018-02-19T00:00:00+03:00</published><updated>2018-02-19T00:00:00+03:00</updated><id>https://enrules.com/past_perfect</id><content type="html" xml:base="https://enrules.com/past_perfect.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/10&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+	&lt;a href=&quot;/past_perfect_negative.html&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='nextTest' type='button' name='Next Test' value='Next Test&gt;'&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/359_PastPerfect.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/10 &amp;#60;Back '&gt; '&gt;</summary></entry><entry><title type="html">Present Perfect Continuous Present Perfect</title><link href="https://enrules.com/present_perfect_continuous_present_perfect.html" rel="alternate" type="text/html" title="Present Perfect Continuous Present Perfect" /><published>2018-02-18T00:00:00+03:00</published><updated>2018-02-18T00:00:00+03:00</updated><id>https://enrules.com/present_perfect_continuous_present_perfect</id><content type="html" xml:base="https://enrules.com/present_perfect_continuous_present_perfect.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/10&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+	&lt;a href=&quot;/past_perfect.html&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='nextTest' type='button' name='Next Test' value='Next Test&gt;'&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/358_PresentPerfectContinuousPresentPerfect.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/10 &amp;#60;Back '&gt; '&gt;</summary></entry><entry><title type="html">Present Perfect Continuous 4</title><link href="https://enrules.com/present_perfect_continuous_4.html" rel="alternate" type="text/html" title="Present Perfect Continuous 4" /><published>2018-02-17T00:00:00+03:00</published><updated>2018-02-17T00:00:00+03:00</updated><id>https://enrules.com/present_perfect_continuous_4</id><content type="html" xml:base="https://enrules.com/present_perfect_continuous_4.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/10&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+	&lt;a href=&quot;/present_perfect_continuous_present_perfect.html&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='nextTest' type='button' name='Next Test' value='Next Test&gt;'&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/357_PresentPerfectContinuous4.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/10 &amp;#60;Back '&gt; '&gt;</summary></entry><entry><title type="html">Present Perfect Continuous 3 Question</title><link href="https://enrules.com/present_perfect_continuous_3_question.html" rel="alternate" type="text/html" title="Present Perfect Continuous 3 Question" /><published>2018-02-16T00:00:00+03:00</published><updated>2018-02-16T00:00:00+03:00</updated><id>https://enrules.com/present_perfect_continuous_3_question</id><content type="html" xml:base="https://enrules.com/present_perfect_continuous_3_question.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/10&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+	&lt;a href=&quot;/present_perfect_continuous_4.html&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='nextTest' type='button' name='Next Test' value='Next Test&gt;'&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/356_PresentPerfectContinuous3Question.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/10 &amp;#60;Back '&gt; '&gt;</summary></entry><entry><title type="html">Present Perfect Continuous 2 Negative</title><link href="https://enrules.com/present_perfect_continuous_2_negative.html" rel="alternate" type="text/html" title="Present Perfect Continuous 2 Negative" /><published>2018-02-15T00:00:00+03:00</published><updated>2018-02-15T00:00:00+03:00</updated><id>https://enrules.com/present_perfect_continuous_2_negative</id><content type="html" xml:base="https://enrules.com/present_perfect_continuous_2_negative.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/10&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+	&lt;a href=&quot;/present_perfect_continuous_3_question.html&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='nextTest' type='button' name='Next Test' value='Next Test&gt;'&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/355_PresentPerfectContinuous2Negative.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/10 &amp;#60;Back '&gt; '&gt;</summary></entry><entry><title type="html">Present Perfect Continuous 1 Statement</title><link href="https://enrules.com/present_perfect_continuous_1_statement.html" rel="alternate" type="text/html" title="Present Perfect Continuous 1 Statement" /><published>2018-02-14T00:00:00+03:00</published><updated>2018-02-14T00:00:00+03:00</updated><id>https://enrules.com/present_perfect_continuous_1_statement</id><content type="html" xml:base="https://enrules.com/present_perfect_continuous_1_statement.html">&lt;div class=&quot;tableTestMobile&quot;&gt;
+	
+&lt;/div&gt;
+
+&lt;div class=&quot;numbQuestion&quot;&gt;1/10&lt;/div&gt;
+
+&lt;div class='button'&gt;
+	&lt;div class=&quot;psevBtnBack&quot;&gt;&amp;#60;Back&lt;/div&gt;
+	&lt;input class=&quot;show__next&quot; id='btnBack' type='button' name='back' value='&lt;Back'&gt;
+	&lt;input class=&quot;show__next&quot; id='hint' type='button' name='hint' value='Hint'&gt;
+	&lt;input class=&quot;show__next&quot; id='btnNext' type='button' name='Go' value='Next&gt;'&gt;
+	&lt;input class=&quot;show__next&quot; id='testResult' type='button' name='check' value='Result'&gt;
+&lt;/div&gt;
+
+&lt;div class='buttonResult'&gt;
+	&lt;a href=&quot;/english_tenses_and_passive_voice/&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='testList' type='button' name='Test List' value='&lt;Test List'&gt;
+	&lt;/a&gt;
+	&lt;input class=&quot;result__next&quot; id='restartTest' type='button' name='NewTest' value='Restart'&gt;
+	&lt;a href=&quot;/present_perfect_continuous_2_negative.html&quot;&gt;
+		&lt;input class=&quot;result__next&quot; id='nextTest' type='button' name='Next Test' value='Next Test&gt;'&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;script src=&quot;js/jquery.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/intermediate_advance/english_tenses_and_passive_voice/354_PresentPerfectContinuous1Statement.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/mainTest.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/script.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;js/sweet-alert.min.js&quot;&gt;&lt;/script&gt;</content><author><name>Leonardo Da Vinci</name></author><category term="beginner_pre-intermediate" /><summary type="html">1/10 &amp;#60;Back '&gt; '&gt;</summary></entry></feed>
