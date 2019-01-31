@@ -1,1 +1,0 @@
-var deferredPrompt;window.Promise||(window.Promise=Promise),"serviceWorker"in navigator&&navigator.serviceWorker.register("/sw.js").then(function(){console.log("Service worker registered!")}).catch(function(e){console.log(e)}),window.addEventListener("beforeinstallprompt",function(e){return console.log("beforeinstallprompt fired"),e.preventDefault(),deferredPrompt=e,!1});
