@@ -4,7 +4,6 @@ var STATIC_FILES = [
   '/',
   "index.html",
   'js/app.js',
-  'js/feed.js',
   'js/promise.js',
   'js/fetch.js',
   'js/material.min.js',
