@@ -3,6 +3,7 @@
 importScripts('sw-toolbox.js');
 
 toolbox.precache([
+	"/",
 	"index.html",
 	"/irregular_verbs/",
 	"/irregular_verbs_table.html",
