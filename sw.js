@@ -6,16 +6,9 @@ toolbox.precache([
 	"/",
 	"index.html",
 	"/img/lala/London-wallpaper-9_2.jpg",
-	"/img/lala/streamline_horizon.png",
+	"/img/lala/here.png",
 	"/img/giphy.gif",
 	"/img/english.jpg",
-	"/irregular_verbs/",
-	"/irregular_verbs_table.html",
-	"/irregular_verbs_test.html",
-	"js/irregular_verbs/irrMass.js",
-	"js/irregular_verbs/irregular_verbs_table/irrTable.js",
-	"js/irregular_verbs/irregular_verbs_test/irrMobileTest.js",
-	"js/irregular_verbs/irregular_verbs_test/irrTest.js",
 	"css/styles.css"
 	]);
 
