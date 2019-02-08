@@ -9,6 +9,12 @@ toolbox.precache([
 	"/img/lala/here.png",
 	"/img/giphy.gif",
 	"/img/english.jpg",
+	"/irregular_verbs_table.html",
+	"/irregular_verbs_test.html",
+	"js/irregular_verbs/irrMass.js",
+	"js/irregular_verbs/irregular_verbs_table/irrTable.js",
+	"js/irregular_verbs/irregular_verbs_test/irrMobileTest.js",
+	"js/irregular_verbs/irregular_verbs_test/irrTest.js",
 	"css/styles.css"
 	]);
 
