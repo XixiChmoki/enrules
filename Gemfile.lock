@@ -73,7 +73,7 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  jekyll (~> 3.8.3)
+  jekyll (~> 3.8.5)
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
@@ -82,4 +82,4 @@ DEPENDENCIES
   wdm (~> 0.1.0)
 
 BUNDLED WITH
-   1.16.4
+   1.17.2
