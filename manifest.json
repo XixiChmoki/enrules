@@ -47,7 +47,7 @@
     "start_url": "/",
     "scope": ".",
     "display": "standalone",
-    "orientation": "portrait-primary",
+    "orientation": "any",
     "background_color": "#fff",
     "theme_color": "#293662",
     "description": "English Rules, Grammar, Exercises with explanations, Examples and Tests.",
