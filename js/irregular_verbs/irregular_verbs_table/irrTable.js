@@ -1,1 +1,1 @@
-for(var something=Object.keys(irregular).length,elems=document.getElementsByClassName("voice"),i=0;i<elems.length;i++)elems[i].onclick=func;function func(){var e=this.innerHTML,i=new Audio;i.src=irregularAudio[e],i.autoplay=!0}
+for(var elems=document.getElementsByClassName("voice"),i=0;i<elems.length;i++)elems[i].onclick=func;function func(){var e=this.innerHTML,i=new Audio;i.src=irregularAudio[e],i.autoplay=!0}
